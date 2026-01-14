@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **DotNet**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **MCPs**
 
