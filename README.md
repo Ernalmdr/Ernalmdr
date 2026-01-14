@@ -7,7 +7,10 @@
 
 - 👯 I’m looking to collaborate on **MCPs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">visit my villa rental site</h3>
+<a href="https://www.marmaravilla.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-blue?style=for-the-badge" alt="Marmara Villa">
+</a>
 <p align="left">
 </p>
 
