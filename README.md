@@ -7,11 +7,13 @@
 
 - 👯 I’m looking to collaborate on **MCPs**
 
-<h3 align="left">visit my villa rental site</h3>
-<a href="https://www.marmaravilla.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-blue?style=for-the-badge" alt="Marmara Villa">
-</a>
 <p align="left">
+  <a href="https://www.marmaravilla.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Sitesi-Marmara_Villa-blue?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://medium.com/@ernalmdr" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Yazılarım-black?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
